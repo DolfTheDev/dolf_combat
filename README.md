@@ -1,2 +1,2 @@
 # dolf_combat
-Fivem Scripts For Dutch Roleplay Servers
+Fivem Script For Dutch Roleplay Servers
